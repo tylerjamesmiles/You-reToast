@@ -1,0 +1,20 @@
+﻿  Appliance.cpp
+D:\Dev\Games\6Realms\6Realms\Entities\Appliance.cpp(33,14): warning C4244: 'argument': conversion from 'int' to 'const T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Dev\Games\6Realms\6Realms\Entities\Appliance.cpp(79,49): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+  BaseEntity.cpp
+D:\Dev\Games\6Realms\6Realms\Entities\BaseEntity.cpp(89,36): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+  Bread.cpp
+  Loaf.cpp
+  Player.cpp
+  CollisionRect.cpp
+  main.cpp
+D:\Dev\Games\6Realms\6Realms\main.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Map.cpp
+  olcPixelGameEngine.cpp
+  PhysicsSystem.cpp
+  Generating Code...
+  6Realms.vcxproj -> D:\Dev\Games\6Realms\Debug\6Realms.exe
